@@ -28,6 +28,7 @@
 1. **Project Name: FOOD EXPRESS DELIVERY WEB APPLICATION**
    - Description: The frontend of the application is built using React.js, where components are designed to display restaurant menus, shopping carts, and order summaries. State management libraries like Redux or React Context can be used to manage cart items and order details across different components. The backend, built using Node.js and Express.js, handles user requests, menu data retrieval from MongoDB, and order processing. MongoDB stores restaurant information, menu items, and user orders. A schema is designed to ensure data consistency and efficient queries.
    - Tech Stack: React.js, Node.js, MongoDB, Express.js, Redux
+   - GitHub Repository: https://github.com/RM-CS/Food-Express-Delivery
 
 
 ### 📣 Let's Connect:
