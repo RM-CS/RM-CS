@@ -2,7 +2,7 @@
 
 ## MERN Stack Developer | Full Stack Engineer
 
-👋 Hello! I'm Rimjhim Mukherjee, a passionate MERN Stack Developer with a knack for building scalable and efficient web applications. I thrive in dynamic environments and love tackling challenges that push my boundaries.
+👋 Hello! I'm Rimjhim Mukherjee, a passionate MERN Stack Developer with a knack for building scalable and efficient web applications. I thrive in dynamic environments and takes keen interest tackling challenges that push my boundaries.
 
 ### 🚀 Quick Highlights:
 
